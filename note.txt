@@ -1,0 +1,4 @@
+I ended up finishing all the V2 exercises save for the last one which I mostly knew how to do, but got stuck on one small step
+
+the solutions are in the test directory, with a few pieces to the solutions in an attacker contract in the respective exercise directory
+worked on this back in march
